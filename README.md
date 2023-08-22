@@ -1,7 +1,7 @@
 # Ola Mundo! 
 
 ## Projetos:
-[Fatoração de numeros usando htmt, css e js]()
+[Fatoração de numeros usando htmt, css e js](https://github.com/DHPedro/fatoracao-de-numeros)
 
 <div style="display: inline_block"><br>
 <h1>Estudando:<h1>
