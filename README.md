@@ -3,6 +3,7 @@
 ## Projetos:
 [Fatoração de numeros usando htmt, css e js](https://github.com/DHPedro/fatoracao-de-numeros)<br>
 [Recriação da pagina do Instagram](https://github.com/DHPedro/gamegram)
+[Contador](https://github.com/DHPedro/contador)
 
 <div style="display: inline_block"><br>
 <h1>Estudando:<h1>
