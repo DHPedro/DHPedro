@@ -38,7 +38,6 @@
 <br>
 
 <div align="center">
-  <h2>📊 Minhas Estatísticas</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=DHPedro&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHPedro&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <h2>📊 Linguagens Mais Usadas</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHPedro&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </div>
