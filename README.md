@@ -1,11 +1,11 @@
 <div align="center">
 
   # Olá, Mundo! Sou o Pedro 👋
-  ### Desenvolvedor Front-end em formação
+  ### Desenvolvedor Front-end e Back-end
 
   <p>
-    Apaixonado por criar interfaces e resolver problemas com código. 
-    Atualmente focado em aprimorar minhas habilidades em Web Development.
+    Gosto de criar interfaces e resolver problemas com código. 
+    Atualmente focado em aprimorar minhas habilidades em Desenvolvimento Web.
   </p>
   
   <a href="https://dhpedro.github.io/portifolio/">
