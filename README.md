@@ -1,15 +1,44 @@
-# Ola Mundo! 
+<div align="center">
 
-## Projetos:
-[Lista de Tarefas](https://github.com/DHPedro/lista-de-tarefas)<br>
-[Fatoração de numeros usando htmt, css e js](https://github.com/DHPedro/fatoracao-de-numeros)<br>
-[Recriação da pagina do Instagram](https://github.com/DHPedro/gamegram)<br>
-[Contador](https://github.com/DHPedro/contador)
+  # Olá, Mundo! Sou o Pedro 👋
+  ### Desenvolvedor Front-end em formação
 
-<div style="display: inline_block"><br>
-<h1>Estudando:<h1>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p>
+    Apaixonado por criar interfaces e resolver problemas com código. 
+    Atualmente focado em aprimorar minhas habilidades em Web Development.
+  </p>
+  
+  <a href="https://dhpedro.github.io/portifolio/">
+    <img src="https://img.shields.io/badge/Meu%20Portfólio-Visitar-blue?style=for-the-badge&logo=google-chrome" alt="Portfólio">
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🚀 Tecnologias que estou estudando</h2>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br>
+
+## 🛠️ Principais Projetos
+
+| Projeto | Descrição |
+| :--- | :--- |
+| **[📸 Gamegram](https://github.com/DHPedro/gamegram)** | Recriação da interface do Instagram com foco em design responsivo. |
+| **[📝 Lista de Tarefas](https://github.com/DHPedro/lista-de-tarefas)** | Aplicação clássica para gerenciamento de tarefas do dia a dia. |
+| **[🧮 Fatoração Numérica](https://github.com/DHPedro/fatoracao-de-numeros)** | Algoritmo de fatoração utilizando HTML, CSS e JavaScript puro. |
+
+<br>
+
+<div align="center">
+  <h2>📊 Minhas Estatísticas</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHPedro&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHPedro&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
