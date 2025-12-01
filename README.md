@@ -37,7 +37,3 @@
 
 <br>
 
-<div align="center">
-  <h2>📊 Linguagens Mais Usadas</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHPedro&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-</div>
