@@ -53,8 +53,8 @@
 
 | Projeto | Descrição |
 | :--- | :--- |
-| **[📸 Gamegram](https://github.com/DHPedro/gamegram)** | Recriação da interface do Instagram com foco em design responsivo. |
 | **[📝 Lista de Tarefas](https://github.com/DHPedro/lista-de-tarefas)** | Aplicação clássica para gerenciamento de tarefas do dia a dia. |
+| **[📸 Gamegram](https://github.com/DHPedro/gamegram)** | Recriação da interface do Instagram com foco em design responsivo. |
 | **[🧮 Fatoração Numérica](https://github.com/DHPedro/fatoracao-de-numeros)** | Algoritmo de fatoração utilizando HTML, CSS e JavaScript puro. |
 
 <br>
